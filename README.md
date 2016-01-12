@@ -36,7 +36,7 @@ These are suggestions, you may want different ones. However breaking out differe
 
 ###Overall
 
-What is your overall sense of them? What stood out to you? Is there anything about them that needs to be understood better by other interviews? This is where you put your decision and justify it: yes or no. 
+What is your overall sense of them? What stood out to you? Is there anything about them that needs to be understood better by other interviews? This is where you put your decision and justify it: yes or no.
 
 ###Questions Asked
 
@@ -115,3 +115,6 @@ Example of a really bad product management question that completely misses the p
 
 Example of a really terrible interview. The candidate is set up to fail with inaccurate information, and then derided, diminished, and generally treated appallingly.
 
+
+## License
+This `Interview Preparation Guide` by [Cate Huston](https://twitter.com/catehstn) and [Ride Group Inc.](http://github.com/ride) is licensed under a [Creative Commons Attribution-NonCommercial-ShareaAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
